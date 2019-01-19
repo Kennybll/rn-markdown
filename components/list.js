@@ -32,7 +32,6 @@ const styles = StyleSheet.create({
   },
   listItemPrefix: {
     flex: 0,
-    whiteSpace: 'pre',
   },
   listItemContent: {
     flex: 1,
